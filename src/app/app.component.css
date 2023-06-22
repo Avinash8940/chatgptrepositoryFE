@@ -1,0 +1,93 @@
+.text{
+    background-color: rgb(232, 187, 128);
+}
+.fix{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+.clear{
+    padding: 15px 20px;
+    width: 700px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #090909;
+    border-radius: 30px;
+    box-sizing: border-box;
+    justify-content: center;
+}
+.click{
+    padding: 5px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #3f3e3e;
+    border-radius: 25px;
+    box-sizing: border-box;
+    background-color: white;
+}
+/* .click:hover{
+    background-color: antiquewhite;
+} */
+.card{
+    border-radius: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: antiquewhite;
+}
+.put{
+    margin-left: 100px;
+    margin-right: 100px;
+    display: inline-block;
+}
+/* .card {
+    margin-top: 10px;
+    background-color: white;
+    border-radius: 25px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    max-width: 100%;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 30px;
+  } */
+  p {
+    text-align: center;
+    color: #fbfcfb;
+    font-size: 100px;
+  }
+  .text{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* color: rgb(163, 33, 33); */
+  }
+  /* .google {
+    width: 50%;
+    padding: 1%;
+    color: black;
+    text-align: center;
+    background-color: lightgray;
+    margin-left: 5%;
+} */
+.copy{
+    text-align: end;
+}
+.btn btn-secondary{
+    background-color: black;
+}
+.img-element{
+    height: 64px;
+}
+
+/* .main-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background-color: antiquewhite
+} */
+
+/* mat-toolbar {
+    background-color: red;
+} */
